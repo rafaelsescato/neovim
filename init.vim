@@ -26,3 +26,10 @@ let mapleader="\<space>"
 source ~/.config/nvim/plugins.vim
 
 
+""" THEME --------------------
+colorscheme everforest
+
+
+""" KEYBINDS --------------------
+source ~/.config/nvim/keybinds.vim
+
