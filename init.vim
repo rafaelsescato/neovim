@@ -18,3 +18,5 @@ set splitbelow             " Create the horizontal splits below
 set autoread               " Update vim after file update from outside:
 
 
+""" LEADER KEY --------------------
+let mapleader="\<space>"
