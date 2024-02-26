@@ -20,3 +20,9 @@ set autoread               " Update vim after file update from outside:
 
 """ LEADER KEY --------------------
 let mapleader="\<space>"
+
+
+""" PLUGINS --------------------
+source ~/.config/nvim/plugins.vim
+
+
