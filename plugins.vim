@@ -14,6 +14,7 @@ Plug 'junegunn/fzf.vim'                                     " Fuzzy search compl
 Plug 'neoclide/coc.nvim', {'branch': 'release'}             " LSP engine for Vim
 Plug 'ycm-core/YouCompleteMe'                               " A code-completion engine for Vim
 Plug 'chrisbra/Colorizer'                                   " Highlight colors
+Plug 'tpope/vim-fugitive'                                   " Git commands integration
 call plug#end()
 
 " PLUGINS SETTINGS
@@ -31,3 +32,4 @@ source ~/.config/nvim/plugins/fzf.vim.vim
 source ~/.config/nvim/plugins/coc.nvim.vim
 source ~/.config/nvim/plugins/YouCompleteMe.vim
 source ~/.config/nvim/plugins/Colorizer.vim
+source ~/.config/nvim/plugins/vim-fugitive.vim
