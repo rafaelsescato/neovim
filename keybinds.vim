@@ -7,8 +7,8 @@ nnoremap <leader>vis :source ~/.config/nvim/init.vim<cr>
 " add ; at the end of the line
 nnoremap <silent> <leader>; A;<esc>
 
-" open terminal
-nnoremap <leader>' :term<cr>
+" open terminal (<C-d> to close)
+nnoremap <leader>' :term<cr>i
 
 " Toggle NERDTree
 nnoremap <silent> <leader>e :NERDTreeToggle<cr>
